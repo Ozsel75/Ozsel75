@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p></p>
 
 - 👋 Hi, I’m @Ozsel75
 - 👀 I’m interested in front End related jobs
