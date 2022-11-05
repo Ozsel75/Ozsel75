@@ -37,6 +37,7 @@
 ---
 
 ### :fire: My Stats :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozsel75&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozsel75&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
