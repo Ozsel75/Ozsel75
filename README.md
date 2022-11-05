@@ -9,7 +9,7 @@
 ---
 
 
-- 👋 Hi, I’m @Ozsel75
+- 👋 Hi, I’m Oz SEL 
 - 👀 I’m interested in front End related jobs
 - 🌱 I’m currently learning javascript - react. I will be happy to hear any advice :) 
 - 💞️ I’m looking to collaborate on any frontend projects
